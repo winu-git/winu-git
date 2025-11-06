@@ -1,13 +1,12 @@
 # Hi Everyone 👋 I'm Winmaniraja  
-☁️ *AWS Cloud | DevOps Engineer ⚙️
+☁️ AWS Cloud | DevOps Engineer ⚙️
 
 ---
 
 ### 🌩️ About Me:
 - ☁️ I design, deploy, and manage scalable cloud architectures on **AWS**.
 - 🐧 Passionate about **DevOps**, **CI/CD pipelines**, and **automation**.
-- 💡 I’m currently learning **Kubernetes** and **Terraform** advanced modules.
-- 🧠 Ask me about **AWS services, Docker, Jenkins, Ansible, Terraform, and Linux**.
+- 🧠 Ask me about **AWS services, Docker, Kubernetes, Jenkins, Ansible, Terraform, and Linux**.
 - 📬 How to reach me: **winmani2323@gmail.com**
 - ⚡ Fun Fact: AWS feels like home — except this one charges by the hour. 💸
 
