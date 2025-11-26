@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FFC8&center=true&vCenter=true&lines=Hi%2C+I'm+Winmaniraja;)](https://git.io/typing-svg)
 
 
-# Hi Everyone 👋 I'm Winmaniraja  
 ☁️ AWS Cloud | DevOps Engineer ⚙️
 
 ---
