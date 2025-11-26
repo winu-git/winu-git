@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00A2FF&center=true&vCenter=true&lines=Hi%2C+I'm+Winmaniraja;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&pause=1000&center=true&vCenter=true&color=00A2FF&lines=Hi%2C+I'm+Winmaniraja;&fontColor=00A2FF&strokeWidth=2&strokeColor=003355)](https://git.io/typing-svg)
 
 
 ☁️ AWS Cloud | DevOps Engineer ⚙️
