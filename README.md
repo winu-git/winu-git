@@ -35,7 +35,7 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 
 <p>
   <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url">
-    <img src="images/aws-badge.png" width="150" />
+    <img src="aws-badge.png" width="150" />
   </a>
 </p>
 
