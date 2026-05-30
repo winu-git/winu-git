@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30\&duration=4000\&pause=1000\&center=true\&vCenter=true\&color=00A2FF\&lines=Hi%2C+I'm+Winmaniraja;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Google+Cloud;Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&duration=3000\&pause=1000\&center=true\&vCenter=true\&color=00A2FF\&width=800\&lines=Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Scale;Cloud+Engineering+%7C+DevOps+Engineering;AWS+%7C+Google+Cloud+Platform;Infrastructure+as+Code+with+Terraform;Kubernetes+%7C+Docker+%7C+CI%2FCD;Monitor+%E2%86%92+Optimize+%E2%86%92+Innovate)](https://git.io/typing-svg)
+)
 
 ![](https://komarev.com/ghpvc/?username=winu-git\&color=blue)
 
