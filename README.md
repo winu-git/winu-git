@@ -1,10 +1,8 @@
-# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A2FF,100:4285F4&text=Winmaniraja&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=20"/>
+# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A2FF,100:4285F4&text=WINMANIRAJA&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=20"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&duration=3500\&pause=1000\&center=true\&vCenter=true\&color=00A2FF\&width=900\&lines=Build+→+Automate+→+Deploy+→+Scale;AWS+%7C+Google+Cloud+Platform;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+%7C+Observability+%7C+SRE;Cloud+Engineer+%7C+DevOps+Engineer)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=winu-git\&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&duration=3500\&pause=1000\&center=true\&vCenter=true\&color=00A2FF\&width=900\&lines=Build+→+Automate+→+Deploy+→+Scale;AWS+%7C+Google+Cloud+Platform;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+%7C+Observability+%7C+SRE;)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,13 +34,10 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 # 🏆 Certifications
 
 <p>
-<a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url">
-<img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</a>
+  <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url">
+    <img src="images/aws-badge.png" width="150" />
+  </a>
 </p>
-
-🔗 **Verify Credential:**
-https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url
 
 ---
 
