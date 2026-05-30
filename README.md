@@ -90,9 +90,8 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 ### 🌟 Quote of the Day
 
 > 🧠 *“If you can’t measure it, you can’t improve it.”* 📊
+> 
 > ☁️ **Measure → Observe → Automate → Improve** ⚡
-
-### ☁️ Design → Automate → Monitor → Optimize → Scale 🚀
 
 ---
 
