@@ -1,52 +1,201 @@
+# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A2FF,100:4285F4&text=Winmaniraja&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&pause=1000&center=true&vCenter=true&color=00A2FF&lines=Hi%2C+I'm+Winmaniraja;&fontColor=00A2FF&strokeWidth=2&strokeColor=003355)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30\&duration=4000\&pause=1000\&center=true\&vCenter=true\&color=00A2FF\&lines=Hi%2C+I'm+Winmaniraja;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Google+Cloud;Automation+Enthusiast)](https://git.io/typing-svg)
 
-☁️ AWS Cloud | DevOps Engineer ⚙️
+![](https://komarev.com/ghpvc/?username=winu-git\&color=blue)
 
----
-
-### 🌩️ About Me:
-- ☁️ I design, deploy, and manage scalable cloud architectures on **AWS**.
-- 🐧 Passionate about **DevOps**, **CI/CD pipelines**, and **automation**.
-- 🧠 Ask me about **AWS services, Docker, Kubernetes, Jenkins, Ansible, Terraform, and Linux**.
-- 📬 How to reach me: **winmani2323@gmail.com**
-- ⚡ Fun Fact: AWS feels like home — except this one charges by the hour. 💸
+</div>
 
 ---
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winmaniraja-b-0a573b269)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/winu-git)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://winu-git.github.io/portfolio/)
+# ☁️ Cloud Engineer | DevOps Engineer
+
+Passionate about building scalable, secure, and automated cloud infrastructure across **AWS** and **Google Cloud Platform (GCP)**.
+
+## 🌩️ About Me
+
+* ☁️ Designing and managing cloud-native solutions on AWS & GCP.
+* 🚀 Automating infrastructure using Infrastructure as Code (IaC).
+* 🐳 Building containerized workloads with Docker and Kubernetes.
+* 🔄 Creating efficient CI/CD pipelines and deployment workflows.
+* 📊 Monitoring, logging, and observability enthusiast.
+* 🔐 Interested in Cloud Security and Reliability Engineering.
+* 📬 Reach me at: **[winmani2323@gmail.com](mailto:winmani2323@gmail.com)**
+* ⚡ Fun Fact: Multi-cloud is great—until both invoices arrive at the same time. 💸
 
 ---
 
-### 🧰 Tech Stack:
+## 🌐 Connect With Me
 
-#### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+<a href="https://www.linkedin.com/in/winmaniraja" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Winmaniraja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-#### 🧩 DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<a href="https://github.com/winu-git" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-winu--git-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-#### 🛠️ Scripting & Monitoring
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://winu-git.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🌟 Quote of the Day  
-> 🧠 *“If you can’t measure it, you can’t improve it.”* 📊  
-> ☁️ **Measure → Observe → Automate → Improve** ⚡
+# 🏆 Certifications
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+> Replace with only the certifications you actually hold.
 
 ---
+
+# 🧰 Tech Stack
+
+## ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 DevOps & CI/CD
+
+<p>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Scripting & Automation
+
+<p>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+# 🎯 Core Competencies
+
+* Multi-Cloud Architecture (AWS & GCP)
+* Infrastructure as Code (Terraform)
+* Kubernetes Administration
+* CI/CD Pipeline Automation
+* Docker Containerization
+* Linux System Administration
+* Monitoring & Observability
+* Cloud Security Best Practices
+* Cost Optimization
+* Automation & SRE Practices
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=winu-git&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winu-git&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=winu-git&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winu-git\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=winu-git\&theme=tokyonight\&row=1\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 📋 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winu-git\&theme=tokyonight)
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ AWS Infrastructure Automation
+
+* Terraform-based AWS infrastructure provisioning.
+* Modular IaC architecture.
+
+### ☸️ Kubernetes Deployment Platform
+
+* Containerized applications deployed on Kubernetes.
+* Helm-based deployment automation.
+
+### 🔄 CI/CD Automation Pipeline
+
+* Jenkins + GitHub Actions integration.
+* Automated build, test, and deployment workflow.
+
+### 📊 Monitoring Stack
+
+* Prometheus + Grafana observability setup.
+* Alerting and dashboard management.
+
+> Add links to your repositories here.
+
+---
+
+# 🌟 Quote
+
+> 🧠 *"Automation is good, so long as you know exactly where to put the machine."*
+> — Eliyahu Goldratt
+
+### ☁️ Design → Automate → Monitor → Optimize → Scale 🚀
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
