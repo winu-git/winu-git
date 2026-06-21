@@ -94,9 +94,3 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 > ☁️ **Measure → Observe → Automate → Improve** ⚡
 
 ---
-
-<div align="center">
-
-### Thanks for visiting my profile! ⭐
-
-</div>
