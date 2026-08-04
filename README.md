@@ -27,7 +27,7 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/winmaniraja)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/winu-git)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox\&logoColor=white)](https://winu-git.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox\&logoColor=white)](https://winu-git.github.io/Portfolio/)
 
 ---
 
