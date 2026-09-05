@@ -33,17 +33,16 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 
 # 🏆 Certifications
 
-<p>
+<p align="left">
   <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url">
     <img src="aws-badge.png" width="150" />
   </a>
-</p>
-
-<p>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url">
     <img src="gcp-badge.png" width="150" />
   </a>
 </p>
+
 ---
 
 # 🧰 Tech Stack
