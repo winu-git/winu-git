@@ -31,6 +31,7 @@ Passionate about designing scalable cloud architectures, automating infrastructu
 
 ---
 
+
 # 🏆 Certifications
 
 <p align="left">
@@ -42,6 +43,7 @@ Passionate about designing scalable cloud architectures, automating infrastructu
     <img src="gcp-badge.png" width="150" />
   </a>
 </p>
+
 
 ---
 
