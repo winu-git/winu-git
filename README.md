@@ -87,6 +87,23 @@
   <h3>⚡ LIVE DEPLOYMENT EXECUTION STREAM</h3>
   <table>
     <tr>
+      <td colspan="2" align="left">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:0F172A,100:1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20winmaniraja%40cloud-ops%3A~%2Fproduction-pipeline&fontSize=13&fontColor=94A3B8&fontAlign=28&fontAlignY=52" width="760" alt="Terminal Header" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=400&color=38BDF8&center=false&vCenter=false&multiline=true&repeat=true&width=495&height=135&lines=%24+git+push+origin+main;%24+mvn+package+%26%26+jenkins+build+%26%26+docker+push;%24+kubectl+apply+-f+k8s.yaml+--cloud%3Daws%2Cgcp;%24+prometheus+--scrape+%26%26+grafana+--live" alt="Commands" />
+      </td>
+      <td align="left" valign="top">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=400&color=22C55E&center=false&vCenter=false&multiline=true&repeat=true&width=245&height=135&lines=%E2%9C%94+%5BWebhook+Triggered%5D;%E2%9C%94+%5BImage+Built%5D;%E2%9C%94+%5BDeployed%5D;%E2%9C%94+%5BMonitored%5D" alt="Status" />
+      </td>
+    </tr>
+  </table>
+</div><div align="center">
+  <h3>⚡ LIVE DEPLOYMENT EXECUTION STREAM</h3>
+  <table>
+    <tr>
       <td align="left">
         <img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:0F172A,100:1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20winmaniraja%40cloud-ops%3A~%2Fproduction-pipeline&fontSize=13&fontColor=94A3B8&fontAlign=28&fontAlignY=52" width="760" alt="Terminal Header" />
         <br/>
