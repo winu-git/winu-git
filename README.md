@@ -9,20 +9,13 @@
     Passionate about designing scalable cloud architectures, automating infrastructure, and building reliable DevOps workflows across <strong>AWS</strong> and <strong>Google Cloud Platform (GCP)</strong>.
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/winmaniraja">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/winu-git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://winu-git.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="mailto:winmani2323@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/winmaniraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/winu-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://winu-git.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:winmani2323@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 </div>
 
 <br/>
@@ -41,13 +34,9 @@
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url">
-    <img src="aws-badge.png" width="150" alt="AWS Certification" />
-  </a>
+  <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url"><img src="aws-badge.png" width="150" alt="AWS Certification" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url">
-    <img src="gcp-badge.png" width="150" alt="GCP Certification" />
-  </a>
+  <a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url"><img src="gcp-badge.png" width="150" alt="GCP Certification" /></a>
 </div>
 
 <br/>
