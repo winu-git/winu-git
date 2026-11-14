@@ -84,6 +84,12 @@
 <br/>
 
 <div align="center">
+  <img width="88%" src="cicd-pipeline.svg" alt="Live Deployment Execution Stream" />
+</div>
+
+<br/>
+
+<div align="center">
   <blockquote>
     🧠 <em>“If you can’t measure it, you can’t improve it.”</em> 📊
     <br/><br/>
