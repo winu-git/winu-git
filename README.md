@@ -10,7 +10,7 @@
   <p>
     <a href="https://www.linkedin.com/in/winmaniraja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/winu-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://winu-git.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.winucloud.site"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:winmani2323@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
@@ -85,7 +85,21 @@
 
 <div align="center">
   <h3>⚡ LIVE DEPLOYMENT EXECUTION STREAM</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=145&lines=%24+git+push+origin+main++%E2%9C%94+%5BWebhook+Triggered%5D;%24+mvn+package+%26%26+jenkins+build+%26%26+docker+push++%E2%9C%94+%5BImage+Built%5D;%24+kubectl+apply+-f+k8s.yaml+--cloud%3Daws%2Cgcp++%E2%9C%94+%5BDeployed%5D;%24+prometheus+--scrape+%26%26+grafana+--live++%E2%9C%94+%5BMonitored%5D" alt="Live Deployment Execution Stream" />
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:0F172A,100:1E293B&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20winmaniraja%40cloud-ops%3A~%2Fproduction-pipeline&fontSize=13&fontColor=94A3B8&fontAlign=18&fontAlignY=52" width="760" alt="Terminal Header" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=5000&color=38BDF8&center=false&vCenter=true&repeat=true&width=430&height=30&lines=%24+git+push+origin+main" alt="Step 1" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=1200&pause=5600&color=22C55E&center=false&vCenter=true&repeat=true&width=320&height=30&lines=%E2%9C%94+%5BWebhook+Triggered%5D" alt="Status 1" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=4600&color=818CF8&center=false&vCenter=true&repeat=true&width=495&height=30&lines=%24+mvn+package+%26%26+jenkins+build+%26%26+docker+push" alt="Step 2" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=1200&pause=5600&color=22C55E&center=false&vCenter=true&repeat=true&width=255&height=30&lines=%E2%9C%94+%5BImage+Built%5D" alt="Status 2" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=4600&color=FBBF24&center=false&vCenter=true&repeat=true&width=495&height=30&lines=%24+kubectl+apply+-f+k8s.yaml+--cloud%3Daws%2Cgcp" alt="Step 3" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=1200&pause=5600&color=22C55E&center=false&vCenter=true&repeat=true&width=255&height=30&lines=%E2%9C%94+%5BDeployed%5D" alt="Status 3" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=4600&color=2DD4BF&center=false&vCenter=true&repeat=true&width=495&height=30&lines=%24+prometheus+--scrape+%26%26+grafana+--live" alt="Step 4" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&duration=1200&pause=5600&color=22C55E&center=false&vCenter=true&repeat=true&width=255&height=30&lines=%E2%9C%94+%5BMonitored%5D" alt="Status 4" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
