@@ -1,4 +1,4 @@
-<div id="top" align="center">
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0369A1,100:00A2FF&text=WINMANIRAJA&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=20&descAlignY=68"/>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&center=true&vCenter=true&color=00A2FF&width=800&lines=Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Scale;AWS+%7C+Google+Cloud+Platform;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+%7C+Observability+%7C+SRE" alt="Typing SVG" /></a>
@@ -31,16 +31,7 @@
 ## 🏆 Certifications
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url"><img src="aws-badge.png" width="155" alt="AWS Certification" /></a>
-      </td>
-      <td align="center" width="220">
-        <a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url"><img src="gcp-badge.png" width="155" alt="GCP Certification" /></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url"><img src="aws-badge.png" width="155" alt="AWS Certification" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url"><img src="gcp-badge.png" width="155" alt="GCP Certification" /></a>
 </div>
 
 <br/>
@@ -93,9 +84,11 @@
 <br/>
 
 <div align="center">
-  <img width="85%" src="https://capsule-render.vercel.app/api?type=soft&height=115&color=0:0F172A,50:0369A1,100:0F172A&text=%E2%80%9CIf%20you%20can%E2%80%99t%20measure%20it,%20you%20can%E2%80%99t%20improve%20it.%E2%80%9D&fontSize=19&fontColor=ffffff&fontAlignY=40&desc=Measure%20%E2%86%92%20Observe%20%E2%86%92%20Automate%20%E2%86%92%20Improve&descSize=15&descColor=7DD3FC&descAlignY=68" alt="Quote Card"/>
-  <br/><br/>
-  <a href="#top">⬆️ Back to Top</a>
+  <blockquote>
+    🧠 <em>“If you can’t measure it, you can’t improve it.”</em> 📊
+    <br/><br/>
+    ☁️ <strong>Measure → Observe → Automate → Improve</strong> ⚡
+  </blockquote>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:0369A1,100:00A2FF&section=footer"/>
