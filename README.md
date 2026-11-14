@@ -84,7 +84,8 @@
 <br/>
 
 <div align="center">
-  <img width="88%" src="cicd-pipeline.svg" alt="Live Deployment Execution Stream" />
+  <h3>⚡ LIVE DEPLOYMENT EXECUTION STREAM</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=145&lines=%24+git+push+origin+main++%E2%9C%94+%5BWebhook+Triggered%5D;%24+mvn+package+%26%26+jenkins+build+%26%26+docker+push++%E2%9C%94+%5BImage+Built%5D;%24+kubectl+apply+-f+k8s.yaml+--cloud%3Daws%2Cgcp++%E2%9C%94+%5BDeployed%5D;%24+prometheus+--scrape+%26%26+grafana+--live++%E2%9C%94+%5BMonitored%5D" alt="Live Deployment Execution Stream" />
 </div>
 
 <br/>
