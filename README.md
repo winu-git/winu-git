@@ -12,7 +12,6 @@
     <a href="https://github.com/winu-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://winu-git.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:winmani2323@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <img src="https://komarev.com/ghpvc/?username=winu-git&style=for-the-badge&color=0369A1&label=VIEWS" alt="Profile Views"/>
   </p>
 </div>
 
@@ -32,7 +31,16 @@
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url"><img src="aws-badge.png" width="160" alt="AWS Certification" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url"><img src="gcp-badge.png" width="160" alt="GCP Certification" /></a>
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <a href="https://www.credly.com/badges/ece2cef9-6578-4dfd-bb21-54fae7978b82/public_url"><img src="aws-badge.png" width="155" alt="AWS Certification" /></a>
+      </td>
+      <td align="center" width="220">
+        <a href="https://www.credly.com/badges/62e78329-2e76-4b39-b8c9-cdb4ad9077a7/public_url"><img src="gcp-badge.png" width="155" alt="GCP Certification" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -85,18 +93,8 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=winu-git&bg_color=0F172A&color=00A2FF&line=00A2FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <blockquote>
-    🧠 <em>“If you can’t measure it, you can’t improve it.”</em> 📊
-    <br/><br/>
-    ☁️ <strong>Measure → Observe → Automate → Improve</strong> ⚡
-  </blockquote>
-  <br/>
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=soft&height=115&color=0:0F172A,50:0369A1,100:0F172A&text=%E2%80%9CIf%20you%20can%E2%80%99t%20measure%20it,%20you%20can%E2%80%99t%20improve%20it.%E2%80%9D&fontSize=19&fontColor=ffffff&fontAlignY=40&desc=Measure%20%E2%86%92%20Observe%20%E2%86%92%20Automate%20%E2%86%92%20Improve&descSize=15&descColor=7DD3FC&descAlignY=68" alt="Quote Card"/>
+  <br/><br/>
   <a href="#top">⬆️ Back to Top</a>
 </div>
 
