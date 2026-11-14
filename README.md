@@ -93,8 +93,6 @@
 <br/>
 
 <div align="center">
-  <img width="88%" src="cicd-pipeline.svg" alt="Live Deployment Execution Stream" />
-  <br/><br/>
   <img width="85%" src="https://capsule-render.vercel.app/api?type=soft&height=115&color=0:0F172A,50:0369A1,100:0F172A&text=%E2%80%9CIf%20you%20can%E2%80%99t%20measure%20it,%20you%20can%E2%80%99t%20improve%20it.%E2%80%9D&fontSize=19&fontColor=ffffff&fontAlignY=40&desc=Measure%20%E2%86%92%20Observe%20%E2%86%92%20Automate%20%E2%86%92%20Improve&descSize=15&descColor=7DD3FC&descAlignY=68" alt="Quote Card"/>
   <br/><br/>
   <a href="#top">⬆️ Back to Top</a>
